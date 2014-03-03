@@ -1,6 +1,6 @@
 # co-iron
 
-[Iron](https://github.com/spumko/iron) thunkified
+This is [Iron](https://github.com/spumko/iron) and thunkified!
 
 ```
 $ npm install co-iron --save
